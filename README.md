@@ -13,7 +13,7 @@ import scrollTo from 'pure-scrollto'
 or
 
 ```javascript
-let scrollTo = from 'pure-scrollto'
+let scrollTo = rquire('pure-scrollto')
 ```
 
 ## usage

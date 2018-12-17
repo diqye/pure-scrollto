@@ -1,0 +1,22 @@
+{
+  "name": "pure-scrollto",
+  "version": "1.0.2",
+  "description": "Easy,Scroll to the spec element",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppzzppz/pure-scrollto.git"
+  },
+  "author": "diqye <262666212@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppzzppz/pure-scrollto/issues"
+  },
+  "homepage": "https://github.com/ppzzppz/pure-scrollto#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
